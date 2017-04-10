@@ -119,44 +119,40 @@
     background-clip: padding-box;
 }
 
-#contact{
-    background-color: #10ac94;
-}
+/*#contact{*/
+    /*background-color: #10ac94;*/
+/*}*/
 
-#contact h1{
-    color:#ffffff;
-}
+/*#contact h1{*/
+    /*color:#ffffff;*/
+/*}*/
 
-#contact a{
-    color:#ffffff;
-}
+/*#contact a{*/
+    /*color:#ffffff;*/
+/*}*/
 
-#contact label{
-    color:#ffffff;
-}
+/*#contact label{*/
+    /*color:#ffffff;*/
+/*}*/
 
-#contact h5{
-    color:#ffffff;
-}
+/*#contact h5{*/
+    /*color:#ffffff;*/
+/*}*/
 
-#contact input{
-    color:#ffffff;
-}
+/*#contact input{*/
+    /*color:#ffffff;*/
+/*}*/
 
-#contact p{
-    color:#ffffff;
-}
+/*#contact p{*/
+    /*color:#ffffff;*/
+/*}*/
 
-#contact button{
-    color: #10ac94;
-    background-color: #ffffff;
-    border-color: #ffffff;
-}
+/*#contact button{*/
+    /*color: #10ac94;*/
+    /*background-color: #ffffff;*/
+    /*border-color: #ffffff;*/
+/*}*/
 
-#services h5{
-    margin-top:10px;
-    margin-bottom: 30px;
-}
 
 .services-left{
     margin-left: 4em;
@@ -194,4 +190,31 @@
 
 #whyus p{
     text-align: justify;
+}
+
+#services h4{
+    font-size: 2rem;
+    margin-bottom: 0px;
+    line-height: 1.5;
+    margin-top: 5px;
+    font-weight: 500;
+}
+
+#services h5{
+    margin-top:6px;
+    margin-bottom: 3px;
+    font-size: 1.8rem;
+    font-weight: 500;
+}
+
+.responsive-tabs .resp-tabs-list li {
+    padding: 0 8px 14px;
+}
+
+#services .big{
+    text-align: center;
+}
+
+.fa{
+    margin-right: 5px;
 }
